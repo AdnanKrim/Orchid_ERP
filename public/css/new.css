@@ -1,0 +1,70 @@
+.navAll{
+    display:block !important;
+}
+.search_select_box{
+    width:100%;
+    color:red;
+    background:#fff;
+    border-color: 1px solid #ced4da !important;
+
+}
+.extra{
+    height:62px !important;
+}
+.search_select_box select{
+    width:100%;
+}
+.dropdown-menu.show {
+    max-height: 286px !important;
+}
+button.btn.dropdown-toggle.btn-light{
+    background-color:#fff !important;
+    border-color: 1px solid #ced4da !important;
+}
+.bootstrap-select.form-control{
+    border:1px solid #ced4da !important;
+}
+.check {
+    margin-left: 11rem;
+    margin-top: 8px;
+    font-size: 16px;
+}
+.img-circle{
+    border-radius:13% !important;
+}
+#tut{
+    /*    scrollbar-color: #CCCCFF #343A40;*/
+    /*scrollbar-color: #A3A6A9 #343A40;*/
+    /*    scrollbar-border-radius:30px;*/
+}
+#tut::-webkit-scrollbar {
+    width:10px;
+}
+#tut::-webkit-scrollbar-track{
+    /*margin-top: 10px;*/
+    /*margin-bottom: 300px;*/
+    border-radius:10px;
+    background:#343A40;
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+#tut::-webkit-scrollbar-button {
+    width: 50px; //for horizontal scrollbar
+height: 50px; //for vertical scrollbar
+}
+#tut::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    /*height:10px;*/
+    /*background: linear-gradient(red,yellow);*/
+    background:#A3A6A9;
+}
+#tut::-webkit-scrollbar-corner{
+    /*border-radius: 10px;*/
+    /*background: linear-gradient(red,yellow);*/
+    background:#A3A6A9;
+}
+.main-sidebar{
+    /*height:97vh !important;*/
+}
+.main-sidebar, .main-sidebar::before{
+    /*width: 253px !important;*/
+}
